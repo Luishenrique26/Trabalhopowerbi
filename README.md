@@ -1,2 +1,6 @@
 # Trabalhopowerbi
 trabalho feito em powerbi em parceria com uma empresa de seguros automotivos, a fins para faculdade.
+<img width="1110" height="615" alt="image" src="https://github.com/user-attachments/assets/32a98901-64ef-4847-ae4b-572ea5cfee26" />
+<img width="1110" height="615" alt="image" src="https://github.com/user-attachments/assets/2e5df7bd-8406-4048-933f-031fddff1da2" />
+
+
